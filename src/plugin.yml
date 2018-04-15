@@ -1,0 +1,7 @@
+name: MeteorShard
+version: 1.0
+description: Developed by Alex0589
+main: Main.Main
+commands:
+   meteor:
+     description: Use the command!
